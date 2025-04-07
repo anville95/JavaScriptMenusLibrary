@@ -1425,3 +1425,5 @@ export function showDocumentation() {
 		currentVisiblePopup = anvilledocumentationDiv;
 	}
 }
+
+//Thank you for reading the file. Byeeee😊
